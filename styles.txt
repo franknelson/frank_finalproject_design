@@ -1,0 +1,22 @@
+-- Modules --
+
+Header
+- main title
+- social links
+- vertical stack at desktop width
+- horizontal at tablet and below
+-- social link text removed, only icons remain
+
+Project Navigation
+- Links shown as images
+-- vertical stacking on right side at desktop
+-- shifts below content at tablet and below
+-- two images per row
+
+Colors
+- gray
+- pink
+- blue
+
+Font
+- Google: Open Sans
